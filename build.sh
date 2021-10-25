@@ -1,0 +1,1 @@
+npx tailwindcss -o styles.css --watch --jit --purge="*.html"
